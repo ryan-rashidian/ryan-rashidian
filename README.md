@@ -1,8 +1,8 @@
-## I'm Ryan. I like building programs and electronics. 🔧
+## I'm Ryan. I like building programs and electronics. 🔧🖥️
 
 ---
 
 ### Programming Languages:
-- 🐍 Python
-- 🔌 MicroPython + public C API
-- 🧙 C (learning 📖)
+- 🐍 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🔌 ![MicroPython](https://img.shields.io/badge/micropython-2D2D2D?style=for-the-badge&logo=micropython&logoColor=white)
+- 🧙 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ([learning 📖](https://github.com/ryan-rashidian/cpama-2e))
