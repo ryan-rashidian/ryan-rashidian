@@ -1,4 +1,4 @@
-## I'm Ryan. I like building programs and designing circuits. 🔧
+## I'm Ryan. I like building programs and electronics. 🔧
 
 ---
 
